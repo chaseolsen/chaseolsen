@@ -1,8 +1,8 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Chase Olsen </h1>
+<h1 style="color: #44AEFB;">Hi 👋, I'm Chase </h1>
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Over the past 5+ years, I have been engaged in a professional capacity with SyncTimes, a small technology startup dedicated to enhancing the operational efficiency of Health Centers and elevating patient satisfaction levels.
-    In my role as Head of Development, I have successfully spearheaded the creation of SyncTimes Web, Desktop, and Mobile Android Applications. Through this undertaking, I have not only ensured a seamless workflow but also cultivated a codebase that is both scalable and adaptable to evolving needs. Beyond my professional pursuits, I find fulfillment in spending quality time with my loved ones, cultivating meaningful connections with friends, and pursuing a diverse range of hobbies.
+<p style=" margin: 0 50px; font-size: 17px;" >
+    Over the past 5+ years, I have been engaged in a professional capacity with SyncTimes, a small technology startup dedicated to enhancing the operational efficiency of Health Centers and elevating patient satisfaction levels. <br><br/>
+    In my role as Head of Development, I have successfully developed the creation of SyncTimes Web, Desktop, and Mobile Android Applications Through this undertaking, I have not only ensured a seamless workflow but also cultivated a codebase that is both scalable and adaptable to evolving needs. Beyond my professional pursuits, I find fulfillment in spending quality time with my loved ones, cultivating meaningful connections with friends, and pursuing a diverse range of hobbies.
 <br>
 <br>
 <div align="center">
