@@ -6,18 +6,46 @@
     Learn more about me at my personal site! https://www.webdevchase.com/
 <br>
 <br>
-<div align="center">
+<div>
 
 [Email Me](mailto:chase.olsen22@gmail.com)
 </div>
+<h2> 👨🏻‍💻 &nbsp;Quick Snapshot About Me</h2>
+
+```yaml
+name: Chase Olsen
+located_in: Utah
+current_job: Senior Web Developer & Development Lead at SyncTimes
+education:
+  [
+    "Southern Utah University - Computer Science",
+    "Dev Mountain - Full Stack Web Development",
+  ]
+company: SyncTimes
+
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "Game Development",
+  ]
+technical_background:
+  [
+    "SyncTimes - Senior Web Developer & Development Lead",
+    "Apiary Fund - Full Stack Web Developer",
+    "SUU - Asst. Systems Administrator",
+    "About Time Technologies - QA Analyst",
+  ]
+  
+currently_learning: ["Docker, Kubernetes"]
+hobbies: ["Motorcycle Road Trips", "Offroading & Jeeping", "Mechanical Engineering", "Art"]
+```
+
 </p>    
 <br>
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
 <br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
@@ -129,8 +157,6 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
@@ -139,8 +165,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chaseolsen&count_private=true&theme=algolia&border_radius=20)
     
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaseolsen&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
