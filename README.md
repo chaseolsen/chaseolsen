@@ -168,7 +168,6 @@ hobbies: ["Motorcycle Road Trips", "Offroading & Jeeping", "Mechanical Engineeri
 </div>
 <!--  End Stats Cards -->
 
----
 <!-- Begin Footer -->
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/chaseolsen/" target="_blank">
